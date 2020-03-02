@@ -2,6 +2,16 @@ Changes
 =======
 
 
+0.10.x (2020-03-04)
+-------------------
+* Added support for hourly netCDF inputs (Raven computes tasmax and tasmin)
+* Added support for linear transforms and time shifts
+* HMETS and MOHYSE now have a `rain_snow_fraction` option
+* Update Raven to rev 240 (~2.9.2)
+* Added SupressOutput option to speed up calibration
+* Small changes in HBV-EC expected outputs after Raven bug fix to original model
+
+
 0.9.x (2019-11-11)
 ------------------
 * Return configuration files used to run model in a zip archive
