@@ -30,7 +30,6 @@ Raven was made to help scientists run hydrological modeling experiments with cli
 
 Raven can be compiled and installed, or simply deployed using docker. A hosted version is available at  https://pavics.ouranos.ca/twitcher/ows/proxy/raven.
 
-
 Documentation
 -------------
 
