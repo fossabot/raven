@@ -63,8 +63,8 @@ Environment Setup using System Libraries and Sources (Linux)
     This approach is not formally supported, but is presently working for the time being.
     It is up to the user to install the `raven` model and `ostrich` model optimization binaries.
     Those can be downloaded from source via the following links:
-        - RAVEN: http://raven.uwaterloo.ca/Downloads.html
-        - OSTRICH: https://github.com/usbr/ostrich/
+    - RAVEN: http://raven.uwaterloo.ca/Downloads.html
+    - OSTRICH: https://github.com/usbr/ostrich/
 
 .. note::
    While the following shows how to install `raven` for an Deb-based Linux, if the OS-equivalent dependencies
