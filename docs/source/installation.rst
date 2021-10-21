@@ -68,7 +68,7 @@ Environment Setup using System Libraries and Sources (Linux)
 
 .. note::
    While the following shows how to install `raven` for an Deb-based Linux, if the OS-equivalent dependencies
-   are available to Python, `raven` should be able to run on any modern operating system (macOS/Windows/*nix).
+   are available to Python, `raven` should be able to run on any modern operating system (macOS/Windows/\*nix).
 
 First we need to install several system libraries that RavenWPS and RavenPy depend upon and make a virtual environment:
 
