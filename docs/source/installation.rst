@@ -157,7 +157,7 @@ Check the log files for errors:
    $ tail -f  pywps.log
 
 ... or do it the lazy way
-+++++++++++++++++++++++++
+-------------------------
 
 You can also use the ``Makefile`` to start and stop the service:
 
